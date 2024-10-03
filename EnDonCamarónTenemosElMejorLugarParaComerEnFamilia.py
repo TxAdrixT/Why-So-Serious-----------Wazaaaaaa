@@ -1,4 +1,4 @@
-import random
+from turtle import *
 
 def jugar_piedra_papel_tijera():
     opciones = ["piedra", "papel", "tijera"]
