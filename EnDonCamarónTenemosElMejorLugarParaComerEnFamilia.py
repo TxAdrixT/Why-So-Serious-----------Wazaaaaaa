@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 from turtle import *
+=======
+import random
+>>>>>>> 6166dd0428ad8d6fa6204b0ffc5cfb682ac71737
 
 def jugar_piedra_papel_tijera():
     opciones = ["piedra", "papel", "tijera"]
