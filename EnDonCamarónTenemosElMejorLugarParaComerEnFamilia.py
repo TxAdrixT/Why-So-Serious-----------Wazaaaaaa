@@ -1,8 +1,6 @@
 <<<<<<< HEAD
-from turtle import *
-=======
-import random
->>>>>>> 6166dd0428ad8d6fa6204b0ffc5cfb682ac71737
+from math import sqrt
+>>>>>>> RepAdriNico
 
 def jugar_piedra_papel_tijera():
     opciones = ["piedra", "papel", "tijera"]
@@ -30,3 +28,7 @@ def jugar_piedra_papel_tijera():
 jugar_piedra_papel_tijera()
 
 #Editado por Nico
+<<<<<<< HEAD
+=======
+
+>>>>>>> RepAdriNico
